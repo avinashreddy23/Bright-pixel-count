@@ -1,7 +1,6 @@
 # Bright-pixel-count
 MPI, opencv, numpy,scipy
 
-Authors @ --- Avinash Reddy Yenumula --- Disney Davis koala --- Lokesh Reddy Gundla --- @
 
 **********************************
 Bright Spots Detection Using MPI
