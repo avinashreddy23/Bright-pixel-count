@@ -1,4 +1,4 @@
-# Bright-pixel-count
+# Bright-pixel-count/MPI
 MPI, opencv, numpy,scipy
 
 
